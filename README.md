@@ -1,2 +1,2 @@
-# test
-Some text here
+apt update && apt upgade
+git clone 
